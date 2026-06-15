@@ -1,4 +1,4 @@
-# game
+# Ninth live
 
 Game "Ninth live" created using Godot engine during Ludum Dare 53 in a team of 3 people.
 
